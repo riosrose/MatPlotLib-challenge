@@ -1,6 +1,6 @@
 # MatPlotLib-challenge
 
-Unresolved challenge: My results  for the Boxplot visual DO NOT MATCH starter code results. I couln't resolve after walking my code for several days. 
+
 =======
 UCB Data Analytics-Challenge 5 
 
@@ -14,12 +14,11 @@ Dataset:
 # Code
 This project is located in git hub comprised of : 
  - Pymaceuticals ( folder) 
-  -- Readme 
-  -- pymaceuticals_starter.ipynb (notebook) 
-  -- data (sets)
+   -- pymaceuticals_starter.ipynb (notebook) 
+   -- data (sets)
     ---  mouse_metadata
     ---  study_results
-
+- ReadMe file  
 
 Source Code stored in this repo to MatPlotLib-challenge project that used 2 data sets : mouse_metadata and study_results.Subsequently creating new dataframes for further use:  
 **combined_df
@@ -30,3 +29,5 @@ Source Code stored in this repo to MatPlotLib-challenge project that used 2 data
 
 # Data sourced from : 
 UBC Challenge 5  
+
+ - Note Unresolved challenge: My results  for the Boxplot visual DO NOT MATCH starter code results. I couln't resolve after walking my code for several days. 
