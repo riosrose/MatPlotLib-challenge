@@ -12,6 +12,15 @@ Dataset:
          The dataset is referanced and leveraged directly in xxxxxxxxxxxx. Data file is in a xxxxxxxxxxxx format. 
                   
 # Code
+This project is located in git hub comprised of : 
+ - Pymaceuticals ( folder) 
+  -- Readme 
+  -- pymaceuticals_starter.ipynb (notebook) 
+  -- data (sets)
+    ---  mouse_metadata
+    ---  study_results
+
+
 Source Code stored in this repo to MatPlotLib-challenge project that used 2 data sets : mouse_metadata and study_results.Subsequently creating new dataframes for further use:  
 **combined_df
 **cleaned_data_df
